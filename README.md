@@ -33,3 +33,4 @@ Auteurs :
  - Fabien Rozar
  - Mael Pompilius
  - Florian Ah-Yane
+ - Guillyann Ferrere
